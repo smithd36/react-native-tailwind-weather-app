@@ -3,8 +3,7 @@ This repository contains a mobile weather application built with React Native, T
 
 # Usage:
 Here are a few screenshots showcasing the application's user interface:
-<img src="![Screenshot_1688772708](https://github.com/smithd36/react-native-tailwind-weather-app/assets/90289165/b94b6c6c-19e7-4545-b798-3b632bed39d1)" alt="Image" style="width: 300px; height: 200px;">
-<img src="![Screenshot_1688773084](https://github.com/smithd36/react-native-tailwind-weather-app/assets/90289165/19fca711-bc21-4520-8539-9a7f565cde20)" alt="Image" style="width: 300px; height: 200px;">
+<img src="C:\Users\dreys\OneDrive\Pictures\Screenshots\Screenshot 2023-07-07 173200.png" alt="Image" style="width: 300px; height: 200px;">
 
 # Installation and Setup:
 To run the application locally, follow these steps:
